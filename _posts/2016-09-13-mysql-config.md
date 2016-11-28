@@ -3,8 +3,8 @@ title: MySQL安装与配置（MacOS）
 author: Li Xiang
 layout: post
 date: 2016-09-13 20:59:16
-tags: [MySQL,数据库,关系型数据库,配置]
-categories: [MySQL]
+tags: [MySQL,Database,Configuration]
+categories: [Original]
 ---
 
 # 下载 MySQL

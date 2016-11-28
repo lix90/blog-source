@@ -3,7 +3,8 @@ title: 从零学机器学习之决策树
 author: Li Xiang
 layout: post
 date: 2016-09-22 10:10:09
-tags: [机器学习,决策树,分类算法]
+tags: [Machine learning,Decision tree,Data science]
+categories: [Original]
 ---
 
 以一名数学只有普通高中水平的非理工科人的视角尝试理解机器学习之**决策树**。

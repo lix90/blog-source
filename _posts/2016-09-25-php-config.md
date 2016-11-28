@@ -3,8 +3,8 @@ title: PHP 安装与配置
 author: Li Xiang
 layout: post
 date: 2016-09-25 21:00:45
-tags: [PHP,配置]
-categories: [PHP]
+tags: [PHP,Configuration]
+categories: [Original]
 ---
 
 为了了解 PHP 这门所谓的“世界上最好的语言”，特意安装和配置了 PHP 环境。

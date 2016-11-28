@@ -3,8 +3,8 @@ title: 数据冗余
 author: Li Xiang
 layout: post
 date: 2016-09-11 19:54:11
-tags: [数据库系统, 数据冗余]
-categories: [数据库系统]
+tags: [Database]
+categories: [Notes]
 ---
 
 # 数据冗余

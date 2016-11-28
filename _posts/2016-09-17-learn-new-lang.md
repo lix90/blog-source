@@ -3,8 +3,8 @@ title: 零基础如何学习一门新的编程语言？
 author: Li Xiang
 layout: post
 date: 2016-09-17 14:48:43
-tags: [学习方法]
-categories: [个人日志]
+tags: [Programming,How-to-learn]
+categories: [Original]
 ---
 
 在正式读研之前，我几乎没有编程基础。本科在一所不知名的民办二本院校的第一届人力资源班。只在省二级计算机考试中接触了丁点儿编程（好像是VFOX）。也没有考国家计算机二级证书。从刚读研开始，需要在 MATLAB 环境下工作，才正式学起了一门程序语言。所以学习一门编程语言并没有想象中的困难。
