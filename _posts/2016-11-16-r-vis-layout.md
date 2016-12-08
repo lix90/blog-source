@@ -60,7 +60,7 @@ layout(mat, widths = rep.int(1, ncol(mat)),
 
 **Plot region** 绘制区域
 
-- `plt` 向量 `c(x1,x2,y1,y2)` 图形区域的坐标
+- `plt` 向量 `c(x1,x2,y1,y2)` 图形区域的坐标 (left, right, bottom, top)
 - `ply` 字符，指定图形区域类型，`"s"` 为正方形绘图区域，`"m"` 为最大绘图区域。
 - `pin` 尺寸，`c(width, height)`
 

@@ -5,6 +5,7 @@ date: 2016-11-19
 layout: post
 tags: [Database,SQL]
 categories: [Notes]
+description: "看到一篇不错的关于数据库面试问题的解答的知乎专栏文章，拿过来咀嚼一番，记录在此，以便后面查阅和扩充相关内容。"
 ---
 
 内容来源：[知乎专栏-学习编程：常见面试题整理--数据库篇](https://zhuanlan.zhihu.com/p/23713529)

@@ -1,10 +1,11 @@
 ---
-title: R：基本数据类型
+title: R：基本数据对象
 author: Li Xiang
 date: 2016-11-24
 layout: post
 tags: [R,R-basics]
 categories: [Original,R]
+description: "本文总结了下 R 语言中基本的几种数据对象，包括：向量、矩阵、多维数组、因子、列表、数据框。内容几乎全部从 R 语言内置文档阅读获取。"
 ---
 
 # vector 向量

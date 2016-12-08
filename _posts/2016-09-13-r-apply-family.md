@@ -4,7 +4,7 @@ author: Li Xiang
 layout: post
 date: 2016-09-13 22:50:21
 tags: [R,R-basics]
-categories: [Notes]
+categories: [Notes,R]
 ---
 
 > Updated in 2016-11-12

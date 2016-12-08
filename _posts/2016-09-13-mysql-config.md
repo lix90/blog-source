@@ -4,7 +4,7 @@ author: Li Xiang
 layout: post
 date: 2016-09-13 20:59:16
 tags: [MySQL,Database,Configuration]
-categories: [Original]
+categories: [Original,Config]
 ---
 
 # 下载 MySQL
